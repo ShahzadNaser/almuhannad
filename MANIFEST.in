@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include almuhannad *.css
+recursive-include almuhannad *.csv
+recursive-include almuhannad *.html
+recursive-include almuhannad *.ico
+recursive-include almuhannad *.js
+recursive-include almuhannad *.json
+recursive-include almuhannad *.md
+recursive-include almuhannad *.png
+recursive-include almuhannad *.py
+recursive-include almuhannad *.svg
+recursive-include almuhannad *.txt
+recursive-exclude almuhannad *.pyc
