@@ -1,8 +1,8 @@
 {
-    "css/wowit.min.css": [
+    "css/almuhannad.min.css": [
 		"public/css/almuhannad.css"
     ],
-    "js/wowit.min.js" : [
+    "js/almuhannad.min.js" : [
 		"public/css/almuhannad.js"
     ]
 }
